@@ -1,0 +1,22 @@
+p.text_dark_theme{
+    color:whitesmoke;
+    font-size: large;
+    font-weight: bold;
+}
+
+h1.chapter{
+    color: yellow;
+}
+
+h2.ingredients{
+    color: yellow;
+}
+
+ul.list_ingredients{
+    color: white;
+    font-size: large;
+}
+
+body{
+    background-color:black;
+}
